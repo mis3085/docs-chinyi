@@ -223,11 +223,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/auspack-2021/cphi-japan-2020/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="hi"
       href="https://mis3085.github.io/docs-chinyi/hi/auspack-2021/cphi-japan-2020/"
     />
@@ -235,6 +230,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://mis3085.github.io/docs-chinyi/ko/auspack-2021/cphi-japan-2020/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-chinyi/ar/auspack-2021/cphi-japan-2020/"
     />
     <xhtml:link
       rel="alternate"
@@ -303,363 +303,363 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/lk-780/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/foil-sealing-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/lk-780/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/foil-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/lk-780/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/foil-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/lk-780/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/foil-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/lk-780/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/foil-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/lk-780/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/foil-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/lk-780/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/foil-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/lk-780/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/lk-780/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/lk-780/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/foil-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/lk-780/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/foil-sealing-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/foil-sealing-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/foil-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/lk-780/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/foil-sealing-machine/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/foil-sealing-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/capsule-tablet-inspection-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/capsule-tablet-inspection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/foil-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/capsule-tablet-inspection-machine/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/capsule-tablet-inspection-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/capsule-filling-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/capsule-tablet-inspection-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/capsule-filling-machine/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/capsule-filling-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/lk-780/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/lk-780/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/lk-780/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/blister-packaging-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/blister-packaging-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/blister-packaging-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/blister-packaging-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/blister-packaging-machine/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/labeling-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/labeling-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/labeling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/labeling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/labeling-machine/"
     />
   </url>
   <url>
@@ -720,6 +720,66 @@
       rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-chinyi/ja/profile/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/packaging-machine/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/packaging-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/packaging-machine/"
     />
   </url>
   <url>
@@ -788,363 +848,603 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/tablet-making-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/tablet-making-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/tablet-making-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/tablet-making-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/tablet-making-machine/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/semi-automatic-capsule-filling-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/semi-automatic-capsule-filling-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/semi-automatic-capsule-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/semi-automatic-capsule-filling-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/semi-automatic-capsule-filling-machine/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/paper-folding-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/gmp-pharmaceutical-injection-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/gmp-pharmaceutical-injection-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/paper-folding-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/gmp-pharmaceutical-injection-machine/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/automatic-cap-sealing-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/automatic-cap-sealing-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/automatic-cap-sealing-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/automatic-cap-sealing-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/automatic-cap-sealing-machine/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/automatic-horizontal-cartoning-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/automatic-horizontal-cartoning-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/automatic-horizontal-cartoning-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/automatic-horizontal-cartoning-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/automatic-horizontal-cartoning-machine/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-chinyi/ja/counting-machine/</loc>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/automatic-liquip-filling-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-chinyi/en/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-chinyi/de/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-chinyi/es/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-chinyi/fr/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-chinyi/it/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-chinyi/pt/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-chinyi/ru/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-chinyi/ar/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-chinyi/hi/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-chinyi/ko/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/automatic-liquip-filling-machine/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-chinyi/ja/counting-machine/"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/automatic-liquip-filling-machine/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/paper-folding-machine/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/paper-folding-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/paper-folding-machine/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/pharmaceutical-machine/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/pharmaceutical-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/pharmaceutical-machine/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-chinyi/ja/product-list/counting-machine/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-chinyi/en/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-chinyi/de/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-chinyi/es/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-chinyi/fr/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-chinyi/it/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-chinyi/pt/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-chinyi/ru/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-chinyi/ar/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-chinyi/hi/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-chinyi/ko/product-list/counting-machine/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-chinyi/ja/product-list/counting-machine/"
     />
   </url>
 </urlset>
